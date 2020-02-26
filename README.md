@@ -19,7 +19,7 @@ Federated local machine learning allows noodle to anonymously search through the
 
 No more filtering through click-bait ad sites, or pages that contain your terms but not the context of the problem you are trying to solve.
 
-### ads are a ding in the algorithm
+### Ad-based content is de-prioritized
 Ad-based content will appear lower in the results. Why? Because the more ads a page has, the less relevant information it has. The creators of the page are working with google to capture as much traffic as possible. It's a win-win for google and the content generators. But it's a loss for you - a loss of time and energy. It's also a loss for the internet. 
 
 We can reverse this process and restore the informational value of the internet by creating search engines that de-prioritize ad-based content. At the same time, we can find information faster, and maybe spend more time away from the computer or on hobbies. Think of the amount of time you can save as a developer with a decent search engine that prioritizes information content instead of ads, and takes into account the context of our search.
@@ -40,4 +40,34 @@ Essentially a search engine is a crawler and an indexer. There are plenty of ope
 
 ### limiting scope - no porn
 Limiting scope is also helpful. noodle is a search engine for finding technical answers. Therefore, no porn. That eliminates 80-90% of the internet. (If you want porn, use a different search engine)
+
+## components of noodle
+
+### web-crawler
+
+### indexers
+
+#### web indexer
+
+#### local indexer
+
+### search-interface
+
+### IDE plugins
+
+### federated machine learning
+
+## privacy and anonymity
+Wait? noodle is indexing my code? How can we trust that?
+
+One - you have full configuration and control over local indexing and indexing of search results. You don't have to enable these features. But when you understand the anonymity and data protection described below, I believe you will want to.
+
+### all data is local
+Local indexing means local. Your data is not stored in the cloud without your control. Your data is encrypted with your keys and can only be decrypted by you.
+
+### federated/anonymous machine learning
+If you choose to enable this, you will have context oriented search and leverage the power of others' searches as well as your own. The machine learning outputs are run locally and then completely anonymized during the model creation process. Your code is only indexed for local search. Otherwise only meta-data around your code, such as things like "python version", "package manager and version", docker version etc are used to provide context around your search and the solutions you found. This context can be leveraged by others and yourself while maintaining privacy, anonymity, and protecting your data.
+
+### look at the source
+Since this is an open source project, any privacy concerns or vulnerabilities will be brought up as issues by the community of developers creating and using this platform. Or you may find them yourself by looking at the source and reading the documentation.
 
