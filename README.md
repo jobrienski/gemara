@@ -44,18 +44,25 @@ Limiting scope is also helpful. noodle is a search engine for finding technical 
 ## components of noodle
 
 ### web-crawler
+Documentation pending
 
 ### indexers
+Documentation pending
 
 #### web indexer
+Documentation pending
 
 #### local indexer
+Documentation pending
 
 ### search-interface
+Documentation pending
 
 ### IDE plugins
+Documentation pending
 
 ### federated machine learning
+Documentation pending
 
 ## privacy and anonymity
 Wait? noodle is indexing my code? How can we trust that?
