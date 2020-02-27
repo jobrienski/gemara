@@ -114,17 +114,21 @@ Since this is an open source project, any privacy concerns or vulnerabilities wi
 
 ### Languages and Frameworks
 
-#### Crawler
-
-The crawler will be written in `golang`.
-
-#### Indexer
-
 Haven't decided. I would like to use a distributed computing/volunteer computing model to avoid the cloud services and expenses. https://en.wikipedia.org/wiki/Volunteer_computing
 
 Another option is dfinity - https://dfinity.org/ They're not quite there yet, but could be in the near future, and this would be a good showcase app for them. Since they're all about avoiding the cloud monopoly, they might be happy about avoiding the search monopoly.
 
 Some kind of stream producer/consumer protocol will be used. That may need to be distributed as well so it is possible that a distributed hashtable may be the solution.
+
+The choice of distributed/volunteer computing frameworks will determine the other frameworks and languages.
+
+#### Crawler
+
+TBD
+
+#### Indexer
+
+TBD
 
 #### Search UI
 
