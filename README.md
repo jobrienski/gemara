@@ -75,7 +75,7 @@ Think about it. If you're an experienced web developer/engineer, could you write
 
 Essentially a search engine is a crawler and an indexer. There are plenty of open-source examples for site-searches and intranets, and the tools for processing large data sets and matching information content with queries have improved significantly.
 
-#### limiting scope - no porn
+#### Limiting scope - no porn
 
 Limiting scope is also helpful. noodle is a search engine for finding technical answers. Therefore, no porn. That eliminates 80-90% of the internet. (If you want porn, use a different search engine)
 
@@ -97,25 +97,25 @@ Examples of what would be indexed:
 
 One - you have full configuration and control over local indexing and indexing of search results. You don't have to enable these features. But when you understand the anonymity and data protection described below, I believe you will want to.
 
-#### all data is local
+#### All data is local
 
 Local indexing means local. Your data is not stored in the cloud without your control. Your data is encrypted with your keys and can only be decrypted by you.
 
-#### federated/anonymous machine learning
+#### Federated/anonymous machine learning
 
 If you choose to enable this, you will have context oriented search and leverage the power of others' searches as well as your own. The machine learning outputs are run locally and then completely anonymized during the model creation process. Your code is only indexed for local search. Otherwise only meta-data around your code, such as things like "python version", "package manager and version", docker version etc are used to provide context around your search and the solutions you found. This context can be leveraged by others and yourself while maintaining privacy, anonymity, and protecting your data.
 
-#### look at the source
+#### Look at the source
 
 This is an open source project, not some hidden algorithm with huge privacy-violating data centers. Any privacy concerns or vulnerabilities will be brought up as issues by the community of developers creating and using this platform. Or you may find them yourself by looking at the source and reading the documentation.
 
-## components of noodle
+## Components of noodle
 
-### web-crawler
+### Web-crawler
 
 Documentation pending
 
-### indexers
+### Indexers
 
 Documentation pending
 
