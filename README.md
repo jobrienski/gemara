@@ -36,7 +36,7 @@ As developers, we owe it to ourselves to build this. You can do eet.
 
 If search was so easy google wouldn't be a multi-billion dollar company - right?
 
-Well... Think about when google arrived on the scene. alta-vista was the primary web-crawler and indexer. alta-vista returned millions of results but they were hardly relevant. Google was a huge improvement in terms of speed and relevance of results.
+Well... Think about when google arrived on the scene. AltaVista was the primary web-crawler and indexer. AltaVista returned millions of results but they were hardly relevant. Google was a huge improvement in terms of speed and relevance of results.
 
 But the bar was really low. I was a developer then, so I remember. Google just happened to be at the right place, at the right time.
 
