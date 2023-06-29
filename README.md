@@ -1,6 +1,6 @@
 # Gemara Engine
 
-Gemara is an open-source, contextual search engine, and meta-context for the Internet.
+Gemara is an open-source, contextual search engine, and meta-overlay for the Internet.
 
 ## Why the name?
 
