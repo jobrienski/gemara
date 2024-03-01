@@ -30,7 +30,7 @@ Instead of searching the entire web, you are searching the searches of similar c
 
 The contextual similarity factors include the version of language, packages, and devops frameworks (docker, kubernetes, etc), and level of expertise. Some of these contexts are determined by meta-data around current projects, and/or profile and manual configuration. See "configuration"
 
-When you or someone finds an answer, you can easily tag it. Once tagged, that context and search is now sharable as a hyperlink. It becomes a problem space with a solution.
+When you or someone finds an answer, you can easily tag it. Once tagged, that context and search is now shareable as a hyperlink. It becomes a problem space with a solution.
 
 So instead of searching the entire web, you are meta-searching on solutions and matching on contextual problems. Your chances of success are greater, and if you don't get an exact match you have much closer results to look through.
 
