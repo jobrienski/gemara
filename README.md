@@ -1,4 +1,4 @@
-# Gemara Engine
+# Gemara Engine - Search Engine and Knowledge Repository
 
 Gemara is an open-source, contextual search engine, and meta-overlay for the Internet.
 
