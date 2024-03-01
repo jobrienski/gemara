@@ -4,7 +4,7 @@ Gemara is an open-source, contextual search engine, and meta-overlay for the Int
 
 ## Why the name?
 
-Gemara is derived from Aramaic, and rooted in the semetic word "gamar" - "to finish" or "complete." There is definitely a thread in the Talmud that God made man to be co-creators with Him, to complete creation here on earth. Of course this work is never done.
+Gemara is derived from Aramaic, and rooted in the semetic word "gamar" - "to finish" or "complete." There is definitely a thread in the Talmud that _God_ made man to be co-creators with _Him_, to complete creation here on earth. Of course this work is never done.
 
 The Gemara engine is an effort to complete the Internet as a repository of human knowledge and perspectives, and to make finding knowledge and knowledge about knowledge easier.
 
